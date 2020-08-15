@@ -1,7 +1,7 @@
-###                                                                      Hi there 👋
+                                                                      Hi there 👋
 
 
-###                                                      My name is Mateus Silva from São Paulo, Brazil. 
+                                                         My name is Mateus Silva from São Paulo, Brazil. 
                                                           I'm Front-End Developer, and student of TI. 
   
 
