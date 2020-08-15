@@ -8,4 +8,5 @@ I'm Front-End Developer, and student of TI.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imateusds)](https://www.linkedin.com/in/imateusds)
 
 
-[![](https://i.ibb.co/3BYcH7w/Php-programmer-wallpaper67.jpg)](http://https://i.ibb.co/3BYcH7w/Php-programmer-wallpaper67.jpg)
+
+[![](https://i.ibb.co/1bZKndc/Geom-trico-Anivers-rio-de-40-Anos-Capa-para-Facebook.png)](http://https://i.ibb.co/1bZKndc/Geom-trico-Anivers-rio-de-40-Anos-Capa-para-Facebook.png)
