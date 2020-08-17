@@ -6,5 +6,4 @@
   
 
 
-
 [![](https://i.ibb.co/1bZKndc/Geom-trico-Anivers-rio-de-40-Anos-Capa-para-Facebook.png)](http://https://i.ibb.co/1bZKndc/Geom-trico-Anivers-rio-de-40-Anos-Capa-para-Facebook.png)
