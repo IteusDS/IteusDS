@@ -1,4 +1,4 @@
-<center> 👋   Hi there 👋
+<center> 👋   Hi there, wwwelcome =) 👋
 
  My name is Mateus Silva from São Paulo, Brazil. 
 I'm Front-End Developer, and student of TI. </center>
