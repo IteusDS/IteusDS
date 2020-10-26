@@ -6,4 +6,4 @@
 
 [![Mateus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=iteusDS&show_icons=true&theme=radical)
